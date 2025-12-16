@@ -50,6 +50,7 @@ Data Scientist and AI Practitioner with **nearly 2 years** of hands-on experienc
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ---
 
@@ -79,11 +80,11 @@ Data Scientist and AI Practitioner with **nearly 2 years** of hands-on experienc
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfathul21&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=mfathul21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mfathul21&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfathul21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mfathul21&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=mfathul21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
