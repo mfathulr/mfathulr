@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadfathul)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadfathul386@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mfathul21)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mfathulr)
 
 </div>
 
@@ -80,11 +80,11 @@ Data Scientist and AI Practitioner with **nearly 2 years** of hands-on experienc
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=mfathul21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=mfathulr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfathul21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfathulr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-<img src="https://streak-stats.demolab.com/?user=mfathul21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=mfathulr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -102,7 +102,7 @@ I'm always open to collaborating on interesting data science and AI projects, or
 
 <div align="center">
   
-### ⭐ From [mfathul21](https://github.com/mfathul21)
+### ⭐ From [mfathulr](https://github.com/mfathulr)
 
 *"Turning data into insights, insights into action"*
 
