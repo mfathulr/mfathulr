@@ -80,11 +80,11 @@ Data Scientist and AI Practitioner with **nearly 2 years** of hands-on experienc
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=mfathulr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=mfathulr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=21600&v=1" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfathulr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfathulr&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600&v=1" alt="Top Languages" />
 
-<img src="https://streak-stats.demolab.com/?user=mfathulr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=mfathulr&theme=tokyonight&hide_border=true&cache_seconds=21600&v=1" alt="GitHub Streak" />
 
 </div>
 
