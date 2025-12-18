@@ -19,7 +19,7 @@ Data Scientist and AI Practitioner with **nearly 2 years** of hands-on experienc
 - 🔭 **Currently working at** PT Trakindo Utama as a Data Scientist
 - 🎓 **Education:** Bachelor of Mathematics from Diponegoro University (GPA: 3.72/4.00 - Cum Laude)
 - 🧠 **Expertise:** End-to-end ML lifecycle, LLM integration, Prompt Engineering, Time-Series Forecasting
-- 📚 **Teaching:** Former Part-Time Lecturer at Pacmann AI, mentored 50+ students in data science
+- 📚 **Teaching:** Former Part-Time Lecturer at Pacmann AI, mentored 300+ students in data science
 - 🌱 **Currently learning:** MLOps and AI Architecture
 - 💡 **Fun fact:** I love integrating Python into real-world mathematical applications
 
@@ -43,6 +43,29 @@ Data Scientist and AI Practitioner with **nearly 2 years** of hands-on experienc
 - Time-Series Forecasting
 - Generative AI & LLM Customization
 - Prompt Engineering
+
+#### Computer Vision
+![OpenCV](https://img.shields.io/badge/OpenCV-5DAACE?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+**Core CV Skills & Tools:**
+- Image Classification, Object Detection, Semantic & Instance Segmentation
+- Image Preprocessing & Augmentation (OpenCV, Albumentations)
+- Transfer Learning (ResNet, EfficientNet, Vision Transformers)
+- Model Optimization & Deployment (ONNX, TensorRT, TorchScript)
+- Annotation & Dataset Management (COCO, Pascal VOC, Labeling pipelines)
+
+**Libraries & Frameworks:**
+- OpenCV, scikit-image, Pillow
+- PyTorch, torchvision, Detectron2, MMDetection
+- TensorFlow, Keras, YOLO (Ultralytics)
+
+**Sample Projects:**
+- Real-time object detection and tracking
+- Automated defect / anomaly detection in images
+- Medical image segmentation pipelines
+- OCR preprocessing and layout analysis
 
 ### Tools & Deployment
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -84,7 +107,7 @@ Data Scientist and AI Practitioner with **nearly 2 years** of hands-on experienc
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfathulr&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600&v=1" alt="Top Languages" />
 
-<img src="https://streak-stats.demolab.com/?user=mfathulr&theme=tokyonight&hide_border=true&cache_seconds=21600&v=1" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=mfathulr&theme=tokyonight&hide_border=true&cache_seconds=21600&v=20251218" alt="GitHub Streak (cache-bust)" />
 
 </div>
 

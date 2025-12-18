@@ -1,0 +1,39 @@
+name: Update streak cache-buster
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Get date
+        run: echo "DATE=$(date -u +%Y%m%d)" >> $GITHUB_ENV
+
+      - name: Update README cache-buster
+        run: |
+          FILE=README.md
+          if grep -q "streak-stats.demolab.com" "$FILE"; then
+            sed -E -i.bak "s@(streak-stats.demolab.com/\?[^\" ]*v=)[0-9]+@\1$DATE@" "$FILE" || true
+            git add "$FILE"
+          else
+            echo "No streak badge found, skipping"
+          fi
+
+      - name: Commit and push
+        run: |
+          if ! git diff --staged --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "chore: update streak cache-buster to $DATE"
+            git push
+          else
+            echo "No changes to commit"
+          fi
