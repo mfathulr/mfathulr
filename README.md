@@ -36,36 +36,16 @@ Data Scientist and AI Practitioner with **nearly 2 years** of hands-on experienc
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-00D9FF?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-00D9FF?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-5DAACE?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 **Specializations:**
 - Regression, Classification, Clustering
 - Time-Series Forecasting
 - Generative AI & LLM Customization
 - Prompt Engineering
+- Computer Vision
 
-#### Computer Vision
-![OpenCV](https://img.shields.io/badge/OpenCV-5DAACE?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-**Core CV Skills & Tools:**
-- Image Classification, Object Detection, Semantic & Instance Segmentation
-- Image Preprocessing & Augmentation (OpenCV, Albumentations)
-- Transfer Learning (ResNet, EfficientNet, Vision Transformers)
-- Model Optimization & Deployment (ONNX, TensorRT, TorchScript)
-- Annotation & Dataset Management (COCO, Pascal VOC, Labeling pipelines)
-
-**Libraries & Frameworks:**
-- OpenCV, scikit-image, Pillow
-- PyTorch, torchvision, Detectron2, MMDetection
-- TensorFlow, Keras, YOLO (Ultralytics)
-
-**Sample Projects:**
-- Real-time object detection and tracking
-- Automated defect / anomaly detection in images
-- Medical image segmentation pipelines
-- OCR preprocessing and layout analysis
 
 ### Tools & Deployment
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
