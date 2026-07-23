@@ -68,10 +68,13 @@ Focused on translating business problems into scalable data solutions — from d
 ### 🎯 PT Trakindo Utama — Data Scientist  
 *May 2025 – Present*
 
-- Designed and deployed a Generative AI classification system achieving **86% accuracy** using custom LLM prompting strategies  
-- Built long-term demand forecasting models (10-year horizon) with **MAPE < 20%**  
-- Developed AI-powered applications to support internal decision-making workflows  
-- Applied statistical and machine learning methods for customer segmentation and portfolio optimization  
+- Developed 10-year demand forecasting models for the mining industry based on coal price trends with MAPE < 20%
+- Engineered a GenAI classification model for chemical analysis (>90% accuracy) with .NET API integration, reducing EM time allocation by 26% and boosting productivity by 14.2% (~$62,370 annual savings).
+- Developed ML demand forecasting for branch spare parts, improving accuracy by 10% over manual methods; co-developed a backlog scoring model using WOE & Logistic Regression to maximize sales efficiency.
+- Enhanced Physical Footprint EDA dashboards and built financial simulators in VBA for operational KPIs; developed Streamlit & Power BI apps for Role-Based Access Control (RBAC) mapping.
+- Conducted omnichannel transaction analysis (Revenue, Growth, AOV, ARPU, Retention) and analyzed commercial alignment metrics for merchandising programs.
+- Refactored Credit Limit Recommendation logic and automated end-to-end data pipelines using Apache Airflow DAGs; proactively troubleshot API issues in production systems.
+
 
 ---
 
